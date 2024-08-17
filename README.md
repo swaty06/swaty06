@@ -20,6 +20,32 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - **Collaboration:** Proven track record of working effectively in cross-functional teams and agile environments.
 - **Continuous Learning:** Committed to staying updated with the latest industry trends and technologies.
 
+  💼 Professional Experience
+###Software Developer
+
+###Tata Consultancy Services, Trivandrum  
+
+###January 2019 – May 2021  
+
+Developed robust software solutions using Python, demonstrating strong analytical and problem-solving skills.
+Collaborated effectively in a team environment, providing support and guidance to ensure project success.
+Created responsive software applications that automatically adjust to different screen sizes across desktop and mobile platforms.
+Skilled in source code management with extensive experience in web development.
+Led Scrum development practices, ensuring on-time milestone achievement and continuous delivery of high-quality software.
+Data Analyst
+Activelogica Lifescience Innovations Pvt Ltd, Kochin
+March 2018 – January 2019
+Developed and deployed chatbots with trained datasets capable of performing complex calculations on Microsoft Azure.
+Implemented business intelligence solutions that significantly increased operational efficiency.
+Gained hands-on experience in the installation, configuration, and testing of various components within the Hadoop ecosystem.
+Software Developer
+
+Atwic Research and Development Pvt Ltd, Kochin
+2017-2018
+Proficiently utilized OpenCV Python and Deep Learning techniques for image classification tasks.
+Worked with multiple Python Integrated Development Environments (IDEs) such as Jupyter Notebook and Tkinter to streamline development processes.
+Applied practical knowledge in Python-based projects, contributing to successful R&D initiatives.
+
 
 
 <!--
