@@ -1,7 +1,7 @@
 ## Hi  I'm Swathy Ramakrishnan 👋
 
 ##About me
-I’m a Data Scientist with a strong background in Software Engineering, passionate about leveraging data to drive impactful decisions. With a Master’s degree in Data Science and Engineering, I specialize in machine learning, exploratory data analysis, and data visualization. I enjoy tackling complex problems, collaborating with diverse teams, and continuously learning to stay at the forefront of technology. In my spare time, I work on personal projects to refine my skills and contribute to open-source communities
+\n I’m a Data Scientist with a strong background in Software Engineering, passionate about leveraging data to drive impactful decisions. With a Master’s degree in Data Science and Engineering, I specialize in machine learning, exploratory data analysis, and data visualization. I enjoy tackling complex problems, collaborating with diverse teams, and continuously learning to stay at the forefront of technology. In my spare time, I work on personal projects to refine my skills and contribute to open-source communities
 
 <!--
 **swaty06/swaty06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
