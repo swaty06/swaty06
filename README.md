@@ -56,6 +56,21 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Worked with multiple Python Integrated Development Environments (IDEs) such as Jupyter Notebook and Tkinter to streamline development processes.
 - Applied practical knowledge in Python-based projects, contributing to successful R&D initiatives.
 
+  ### 🎓 Education
+
+#### **Master of Technology: Information Technology**  
+*Rajagiri School of Engineering and Technology - Kochin, India*  
+*July 2015 – April 2017*
+
+- **Master Thesis:** Incremental Model for Analyzing Mobile Reviews on Twitter
+
+#### **Bachelor of Technology: Information Technology**  
+*Rajagiri School of Engineering and Technology - Kochin, India*  
+*July 2011 – April 2015*
+
+- **Bachelor Thesis:** Filtering of Online Social Network User Walls
+
+
 
 
 
