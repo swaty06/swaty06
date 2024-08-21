@@ -61,6 +61,11 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Proficiently utilized OpenCV Python and Deep Learning techniques for image classification tasks.
 - Worked with multiple Python Integrated Development Environments (IDEs) such as Jupyter Notebook and Tkinter to streamline development processes.
 - Applied practical knowledge in Python-based projects, contributing to successful R&D initiatives.
+- 
+
+# **Projects**
+
+### **Yield Prediction and Crop Classification**
 
   ### 🎓 Education
 
