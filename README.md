@@ -63,7 +63,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Applied practical knowledge in Python-based projects, contributing to successful R&D initiatives.
 - 
 
-### **Projects**
+### 📊 **Projects**
 
 ### **Identifying Potential Areas for Urban Agriculture in Milan, Italy.**
 ### **UEFA EURO 2024 – Leveraging Machine Learning and Open Data Sets for Advanced Sports Analytics.**
