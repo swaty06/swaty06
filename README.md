@@ -66,7 +66,9 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 ### 📊 **Projects**
 
 #### **Identifying Potential Areas for Urban Agriculture in Milan, Italy.**
+ - **Objective:** Analyzed yield predictions and classified crops that grow in specific regions.
 #### **UEFA EURO 2024 – Leveraging Machine Learning and Open Data Sets for Advanced Sports Analytics.**
+-  **Objective:**  The potential to harness advanced analytics in sports is vast, especially with the growing availability of comprehensive football datasets
 
   ### 🎓 Education
 
