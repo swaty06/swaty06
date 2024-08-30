@@ -68,8 +68,15 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 #### **Identifying Potential Areas for Urban Agriculture in Milan, Italy.**
  - **Objective:** Analyzed yield predictions and classified crops that grow in specific regions.
   - 🔗 **Project Link:** [View Project](https://urban-agriculture-in-milan-crop-yield.streamlit.app/Crop%20Selection)
-#### **UEFA EURO 2024 – Leveraging Machine Learning and Open Data Sets for Advanced Sports Analytics.**
--  **Objective:**  The potential to harness advanced analytics in sports  especially with the growing availability of comprehensive football datasets
+# URL-Based Summarization Tool
+
+## Overview
+
+This tool allows you to summarize book reviews by pasting URLs. You can input up to three URLs, and the tool will generate concise summaries or answer specific questions about the content.
+
+## Try It Out
+
+Check out the live version of the project here: [URL Summarizer for Book Reviews](https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor)
 
   ### 🎓 Education
 
