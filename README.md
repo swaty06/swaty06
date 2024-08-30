@@ -68,15 +68,15 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 #### **Identifying Potential Areas for Urban Agriculture in Milan, Italy.**
  - **Objective:** Analyzed yield predictions and classified crops that grow in specific regions.
   - 🔗 **Project Link:** [View Project](https://urban-agriculture-in-milan-crop-yield.streamlit.app/Crop%20Selection)
-# URL-Based Summarization Tool
+  - 
+#### **URL-Based Summarization Tool for Book Reviews**
+- **Objective:** Quickly summarize book reviews by pasting up to three URLs, generating concise summaries or answering specific questions about the content.
+- 🔗 **Project Link:** [View Project](https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor)
 
-## Overview
+  #### **LLM-Based Book Chatbot**
+- **Objective:** Engage with an AI-powered chatbot that answers questions about specific books, providing insights on plots, characters, themes, and more.
+- 🔗 **Project Link:** [View Project](https://llm-based-book-chatbot-4k2w3pdmnfwjg54ci7qexk.streamlit.app/)
 
-This tool allows you to summarize book reviews by pasting URLs. You can input up to three URLs, and the tool will generate concise summaries or answer specific questions about the content.
-
-## Try It Out
-
-Check out the live version of the project here: [URL Summarizer for Book Reviews](https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor)
 
   ### 🎓 Education
 
