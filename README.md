@@ -28,7 +28,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 
 ### 💼 Professional Experience
 
-#### **Team Lead**  
+#### **ML Engineer**  
 *Omdena | Remote*  
 *May 2024 – Present*
 
@@ -75,19 +75,19 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 
   #### **LLM-Based Book Chatbot**
 - **Objective:** Engage with an AI-powered chatbot that answers questions about specific books, providing insights on plots, characters, themes, and more.
-- 🔗 **Project Link:** [View Project](https://llm-based-book-chatbot-4k2w3pdmnfwjg54ci7qexk.streamlit.app/)
+- 🔗 **Project Link:** [View Project](https://llm-based-book-chatbot-3sgawb2wwyf77qipzyykxv.streamlit.app/BookBot)
 
 
   ### 🎓 Education
 
 #### **Master of Technology: Information Technology**  
-*Rajagiri School of Engineering and Technology - Kochin, India*  
+ 
 *July 2015 – April 2017*
 
 - **Master Thesis:** Incremental Model for Analyzing Mobile Reviews on Twitter
 
 #### **Bachelor of Technology: Information Technology**  
-*Rajagiri School of Engineering and Technology - Kochin, India*  
+
 *July 2011 – April 2015*
 
 - **Bachelor Thesis:** Filtering of Online Social Network User Walls
