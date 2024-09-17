@@ -37,7 +37,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Facilitated collaboration and ensured the timely delivery of project milestones, enhancing team efficiency and project outcomes.
 
 #### **Software Developer**  
-*Tata Consultancy Services, *  
+*Tata Consultancy Services,*  
 *January 2019 – May 2021*
 
 - Developed robust software solutions using Python, demonstrating strong analytical and problem-solving skills.
@@ -55,13 +55,13 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Gained hands-on experience in the installation, configuration, and testing of various components within the Hadoop ecosystem.
 
 #### **Software Developer**  
-*Atwic Research and Development Pvt Ltd, *  
+*Atwic Research and Development Pvt Ltd,*  
 *2017-2018*
 
 - Proficiently utilized OpenCV Python and Deep Learning techniques for image classification tasks.
 - Worked with multiple Python Integrated Development Environments (IDEs) such as Jupyter Notebook and Tkinter to streamline development processes.
 - Applied practical knowledge in Python-based projects, contributing to successful R&D initiatives.
-- 
+  
 
 ### 📊 **Projects**
 
