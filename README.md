@@ -68,7 +68,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 #### **Identifying Potential Areas for Urban Agriculture in Milan, Italy.**
  - **Objective:** Analyzed yield predictions and classified crops that grow in specific regions.
   - 🔗 **Project Link:** [View Project](https://urban-agriculture-in-milan-crop-yield.streamlit.app/Crop%20Selection)
-  - 
+   
 #### **URL-Based Summarization Tool for Book Reviews**
 - **Objective:** Quickly summarize book reviews by pasting up to three URLs, generating concise summaries or answering specific questions about the content.
 - 🔗 **Project Link:** [View Project](https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor)
