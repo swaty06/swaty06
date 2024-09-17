@@ -37,7 +37,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Facilitated collaboration and ensured the timely delivery of project milestones, enhancing team efficiency and project outcomes.
 
 #### **Software Developer**  
-*Tata Consultancy Services, Trivandrum*  
+*Tata Consultancy Services, *  
 *January 2019 – May 2021*
 
 - Developed robust software solutions using Python, demonstrating strong analytical and problem-solving skills.
@@ -47,7 +47,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Led Scrum development practices, ensuring on-time milestone achievement and continuous delivery of high-quality software.
 
 #### **Data Analyst**  
-*Activelogica Lifescience Innovations Pvt Ltd, Kochin*  
+*Activelogica Lifescience Innovations Pvt Ltd,*  
 *March 2018 – January 2019*
 
 - Developed and deployed chatbots with trained datasets capable of performing complex calculations on Microsoft Azure.
@@ -55,7 +55,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Gained hands-on experience in the installation, configuration, and testing of various components within the Hadoop ecosystem.
 
 #### **Software Developer**  
-*Atwic Research and Development Pvt Ltd, Kochin*  
+*Atwic Research and Development Pvt Ltd, *  
 *2017-2018*
 
 - Proficiently utilized OpenCV Python and Deep Learning techniques for image classification tasks.
