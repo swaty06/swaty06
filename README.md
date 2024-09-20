@@ -36,7 +36,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Played a key role in understanding and applying data science concepts to develop innovative solutions.
 - Facilitated collaboration and ensured the timely delivery of project milestones, enhancing team efficiency and project outcomes.
 
-#### **Software Developer**  
+#### **Data Scientist**  
 *Tata Consultancy Services,*  
 *January 2019 – May 2021*
 
@@ -46,7 +46,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Skilled in source code management with extensive experience in web development.
 - Led Scrum development practices, ensuring on-time milestone achievement and continuous delivery of high-quality software.
 
-#### **Data Analyst**  
+#### **Data Scientist Trainee**  
 *Activelogica Lifescience Innovations Pvt Ltd,*  
 *March 2018 – January 2019*
 
@@ -54,7 +54,7 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
 - Implemented business intelligence solutions that significantly increased operational efficiency.
 - Gained hands-on experience in the installation, configuration, and testing of various components within the Hadoop ecosystem.
 
-#### **Software Developer**  
+#### **Junior Data Scientist**  
 *Atwic Research and Development Pvt Ltd,*  
 *2017-2018*
 
