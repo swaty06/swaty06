@@ -70,12 +70,12 @@ I’m a Data Scientist with a strong background in Software Engineering, passion
   - 🔗 **Project Link:** [View Project](https://urban-agriculture-in-milan-crop-yield.streamlit.app/Crop%20Selection)
    
 #### **URL-Based Summarization Tool for Book Reviews**
-- **Objective:** Quickly summarize book reviews by pasting up to three URLs, generating concise summaries or answering specific questions about the content.
-- 🔗 **Project Link:** [View Project](https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor)
+- **Objective:** A lightweight Retrieval-Augmented Generation (RAG) app that summarizes content from any web page and answers user questions — using ChromaDB for vector storage and a powerful LLM for summarization and Q&A.
+- 🔗 **Project Link:** [View Project]([https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor](https://url-summarizer-emhbqm88xs2hojxymwy7gw.streamlit.app/))
 
-  #### **LLM-Based Book Chatbot**
-- **Objective:** Engage with an AI-powered chatbot that answers questions about specific books, providing insights on plots, characters, themes, and more.
-- 🔗 **Project Link:** [View Project](https://llm-based-book-chatbot-3sgawb2wwyf77qipzyykxv.streamlit.app/BookBot)
+  #### **Travel Assistant AI Agent**
+- **Objective:** A lightweight AI-powered travel assistant built with Streamlit and Gemini using the agno agent framework. It answers travel-related queries using real-time search and reasoning tools.
+- 🔗 **Project Link:** [View Project]([https://llm-based-book-chatbot-3sgawb2wwyf77qipzyykxv.streamlit.app/BookBot](https://travelaiagent-vgcynbzidkh6cy6ju5y5wk.streamlit.app/))
 
 
   ### 🎓 Education
