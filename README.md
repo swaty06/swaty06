@@ -1,114 +1,66 @@
-## Hi  I'm Swathy Ramakrishnan 👋
+## Hi, I'm Swathy Ramakrishnan 👋
 
-**About me**  
+**Data Scientist | ML & GenAI Engineer** · Stuttgart, Germany
 
-I’m a Data Scientist with a strong background in Software Engineering, passionate about leveraging data to drive impactful decisions. With a Master’s degree in Data Science and Engineering, I specialize in machine learning, exploratory data analysis, and data visualization. I enjoy tackling complex problems, collaborating with diverse teams, and continuously learning to stay at the forefront of technology. In my spare time, I work on personal projects to refine my skills and contribute to open-source communities
+I build machine learning and generative AI solutions end to end, from data preparation and model training to containerised deployment. My work covers RAG pipelines, NLP, computer vision and MLOps, with hands-on experience in biomedical and healthcare data. I hold an M.Tech in Information Technology and work in English and German (both C1).
 
-## 📫 Contact Me
+## 📫 Contact
 
-- **Email:** sujswa@gmail.com  
-- **LinkedIn:** [linkedin.com/in/swathy-ramakrishnan](https://www.linkedin.com/in/swathy-ramakrishnan/)  
-- **GitHub:** [github.com/swaty06](https://github.com/swaty06?tab=repositories)
+- **Email:** sujswa@gmail.com
+- **LinkedIn:** [linkedin.com/in/swathy-ramakrishnan](https://www.linkedin.com/in/swathy-ramakrishnan/)
+- **Portfolio:** [swaty06.github.io/portfolio](https://swaty06.github.io/portfolio)
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, R, SQL, JavaScript
-- **Data Science & Analytics:** Machine Learning, Data Visualization, Exploratory Data Analysis (EDA), Statistical Analysis
-- **Tools & Technologies:** TensorFlow, Scikit-Learn, Pandas, NumPy, Tableau, Jupyter Notebooks, Git
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Web Technologies:** HTML, CSS, JavaScript frameworks (React, Angular)
-- **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL
+- **ML / DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM
+- **Generative AI & LLMs:** LangChain, HuggingFace Transformers, OpenAI API, Google Gemini, Llama, Claude, RAG, Prompt Engineering, Fine-tuning (LoRA/PEFT), Agno, CrewAI
+- **Vector Databases:** ChromaDB, FAISS, Pinecone
+- **NLP:** Named Entity Recognition, Text Classification, NLTK, SpaCy
+- **Data & Pipelines:** Spark (PySpark), Hadoop, MySQL, MongoDB, ETL pipelines
+- **Cloud:** AWS (SageMaker), Microsoft Azure, GCP
+- **Deployment & MLOps:** Docker, CI/CD (GitHub Actions), FastAPI, Streamlit, Git
+- **Statistics:** A/B Testing, Hypothesis Testing, Regression Analysis, Bayesian Methods
+- **Visualisation:** Matplotlib, Seaborn, Plotly, Power BI
 
-### 💡 Soft Skills
+## 🚀 Featured Projects
 
-- **Problem-Solving:** Adept at identifying and addressing complex issues through data-driven solutions.
-- **Communication:** Experienced in presenting technical concepts to non-technical stakeholders and writing clear documentation.
-- **Collaboration:** Proven track record of working effectively in cross-functional teams and agile environments.
-- **Continuous Learning:** Committed to staying updated with the latest industry trends and technologies.
+| Project | Stack | Demo |
+|---|---|---|
+| **Multi-Language AI Agent**: detects the user's language (German/English) and routes the conversation to specialised language agents | Agno, LLM routing, Streamlit | [Live demo](https://multi-language-ai-model-3gisrznzcyheeposn6qqxm.streamlit.app/) |
+| **URL Summariser (RAG Pipeline)**: ingests multiple URLs, stores embeddings in ChromaDB and answers questions over the content | LangChain, ChromaDB, OpenAI API | [Live demo](https://url-summarizer-emhbqm88xs2hojxymwy7gw.streamlit.app/) |
+| **LLM-Based Book Chatbot**: combines structured CSV data with LLM reasoning for semantic search over a book catalogue | LLM, Streamlit | [Live demo](https://llm-based-book-chatbot-sr5t7n8i4ajdx7vtyzgyw2.streamlit.app/) |
+| **Customer Churn Prediction**: end-to-end pipeline with feature engineering, XGBoost, cross-validation and a business dashboard | Scikit-learn, XGBoost, Pandas | [Live demo](https://customer-churn-jntyln9q3aml4vtfmmisjj.streamlit.app/) |
+| **Garbage Classification (ResNet)**: fine-tuned ResNet for image classification, 94% accuracy | PyTorch, Transfer Learning | [Live demo](https://garbage-classification-4zzce6z9n9hyjc2i54johu.streamlit.app/) |
+| **Google Gemini Chatbot**: context-aware, multi-turn conversational AI | Gemini API, Streamlit | [Live demo](https://app-gemini-chatbot-kzuzu4ldkv2s2tgrjszvxw.streamlit.app/) |
 
-### 💼 Professional Experience
+## 💼 Experience
 
-#### **ML Engineer**  
-*Omdena | Remote*  
-*May 2024 – Present*
+**Data Scientist Intern** · BalanX Bio · Remote (US) · *Feb 2026 – Jun 2026*
+- Deployed a RAG-based conversational AI to production for semantic search and document Q&A over biomedical data
+- Built a CI/CD pipeline (GitHub Actions) for testing, Docker builds and deployment to AWS
+- Containerised the ML stack with Docker; integrated Pinecone as the vector database
 
-- Led a diverse team through the full project lifecycle, from data collection to the deployment of a web application.
-- Played a key role in understanding and applying data science concepts to develop innovative solutions.
-- Facilitated collaboration and ensured the timely delivery of project milestones, enhancing team efficiency and project outcomes.
+**Data Scientist** · Omdena · Remote (US) · *May 2024 – Oct 2024*
+- Built an ML pipeline for patient outcome prediction (recall +77%)
+- Brain tumour MRI classification with a fine-tuned CNN in PyTorch (90% accuracy)
+- RAG pipelines with HuggingFace Transformers and the OpenAI API for NER, text classification and document Q&A
+- Streamlit app with real-time predictions and model monitoring
 
-#### **Data Scientist**  
-*Tata Consultancy Services,*  
-*January 2019 – May 2021*
+**Data Scientist** · Tata Consultancy Services · Trivandrum, India · *Jan 2019 – May 2021*
+- Automated model prediction workflows in Python (Pandas, NumPy, Scikit-learn)
+- Built supervised and unsupervised models (regression, classification, clustering) for client deliverables
+- Mentored junior team members and led Scrum ceremonies
 
-- Developed robust software solutions using Python, demonstrating strong analytical and problem-solving skills.
-- Collaborated effectively in a team environment, providing support and guidance to ensure project success.
-- Created responsive software applications that automatically adjust to different screen sizes across desktop and mobile platforms.
-- Skilled in source code management with extensive experience in web development.
-- Led Scrum development practices, ensuring on-time milestone achievement and continuous delivery of high-quality software.
+**Data Scientist Trainee** · Activelogica Lifescience Innovations · Kochi, India · *Mar 2018 – Jan 2019*
+- Deployed NLP chatbots on Microsoft Azure (+15% operational efficiency)
+- Hands-on work with the Hadoop ecosystem (HDFS)
 
-#### **Data Scientist Trainee**  
-*Activelogica Lifescience Innovations Pvt Ltd,*  
-*March 2018 – January 2019*
+## 🎓 Education
 
-- Developed and deployed chatbots with trained datasets capable of performing complex calculations on Microsoft Azure.
-- Implemented business intelligence solutions that significantly increased operational efficiency.
-- Gained hands-on experience in the installation, configuration, and testing of various components within the Hadoop ecosystem.
+- **M.Tech, Information Technology**, Rajagiri School of Engineering and Technology (2015 – 2017). Thesis: *Incremental Model for Analysing Mobile Reviews*
+- **B.Tech, Information Technology**, Rajagiri School of Engineering and Technology (2011 – 2015). Thesis: *Filtering of Online Social Network User Walls*
 
-#### **Junior Data Scientist**  
-*Atwic Research and Development Pvt Ltd,*  
-*2017-2018*
+## 🌍 Languages
 
-- Proficiently utilized OpenCV Python and Deep Learning techniques for image classification tasks.
-- Worked with multiple Python Integrated Development Environments (IDEs) such as Jupyter Notebook and Tkinter to streamline development processes.
-- Applied practical knowledge in Python-based projects, contributing to successful R&D initiatives.
-  
-
-### 📊 **Projects**
-
-#### **Identifying Potential Areas for Urban Agriculture in Milan, Italy.**
- - **Objective:** Analyzed yield predictions and classified crops that grow in specific regions.
-  - 🔗 **Project Link:** [View Project](https://urban-agriculture-in-milan-crop-yield.streamlit.app/Crop%20Selection)
-   
-#### **URL-Based Summarization Tool for Book Reviews**
-- **Objective:** A lightweight Retrieval-Augmented Generation (RAG) app that summarizes content from any web page and answers user questions — using ChromaDB for vector storage and a powerful LLM for summarization and Q&A.
-- 🔗 **Project Link:** [View Project]([https://url-based-summarization-tool-for-book-reviews-hzoozdiwdtp8mgqv.streamlit.app/Url%20Summarisor](https://url-summarizer-emhbqm88xs2hojxymwy7gw.streamlit.app/))
-
-  #### **Travel Assistant AI Agent**
-- **Objective:** A lightweight AI-powered travel assistant built with Streamlit and Gemini using the agno agent framework. It answers travel-related queries using real-time search and reasoning tools.
-- 🔗 **Project Link:** [View Project]([https://llm-based-book-chatbot-3sgawb2wwyf77qipzyykxv.streamlit.app/BookBot](https://travelaiagent-vgcynbzidkh6cy6ju5y5wk.streamlit.app/))
-
-
-  ### 🎓 Education
-
-#### **Master of Technology: Information Technology**  
- 
-*July 2015 – April 2017*
-
-- **Master Thesis:** Incremental Model for Analyzing Mobile Reviews on Twitter
-
-#### **Bachelor of Technology: Information Technology**  
-
-*July 2011 – April 2015*
-
-- **Bachelor Thesis:** Filtering of Online Social Network User Walls
-
-
-
-
-
-
-
-<!--
-**swaty06/swaty06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+English (C1) · German (C1)
